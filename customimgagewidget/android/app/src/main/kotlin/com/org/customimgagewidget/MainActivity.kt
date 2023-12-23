@@ -1,0 +1,6 @@
+package com.org.customimgagewidget
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
